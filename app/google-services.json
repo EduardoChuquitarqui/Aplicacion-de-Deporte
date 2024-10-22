@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003361947212",
+    "project_id": "deporte-98560",
+    "storage_bucket": "deporte-98560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003361947212:android:d4eebf0487b7272ee72ee9",
+        "android_client_info": {
+          "package_name": "com.eduardorchv.deporte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCI_DA3VFOejTsCbCA8SxlDJLpZjI_piM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
